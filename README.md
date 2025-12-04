@@ -722,19 +722,4 @@ Powered by:
 
 ---
 
-## 📝 Changelog
-
-### v1.0.0 (2025-01-XX)
-
-**Features:**
-- ✨ Initial release
-- ✅ Check Jira ticket statuses in PRs
-- ✅ Support for any Jira ticket prefix
-- ✅ Configurable blocked statuses
-- ✅ Multiple bypass keywords support
-- ✅ Position-agnostic ticket detection
-- ✅ Beautiful GitHub Actions summaries
-
----
-
 **⭐ If this action helps your team, please give it a star!**
